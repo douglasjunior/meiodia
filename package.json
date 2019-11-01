@@ -1,0 +1,31 @@
+{
+  "name": "meiodia",
+  "version": "1.0.0",
+  "description": "🕺🍻 Chaaaaaaaama!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douglasjunior/meiodia.git"
+  },
+  "keywords": [
+    "meiodia"
+  ],
+  "author": {
+    "name": "Douglas Nassif Roma Junior",
+    "url": "https://github.com/douglasjunior"
+  },
+  "license": "MIT",
+  "bin": {
+    "meiodia": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/douglasjunior/meiodia/issues"
+  },
+  "homepage": "https://github.com/douglasjunior/meiodia#readme",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
